@@ -33,7 +33,7 @@ npm run build-css
 
 Any advise for common problems or issues or if you have any queries, please mail me;
 
-##### merhaba[add]muratkibarogullari[dot]com
+##### [Murat Kibarogullari](mailto:merhaba[*at*]muratkibarogullari[*dot*]com)
 
 ## Author
 
