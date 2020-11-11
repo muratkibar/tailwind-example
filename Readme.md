@@ -13,10 +13,14 @@ Tailwind CSS usage example with gird, flex, animation, transition, fonts, color,
 * A package named "tailwindcss" should be installed by using npm or yarn
 
 * Using npm
+```
 npm install tailwindcss
+```
 
 * Using Yarn
+```
 yarn add tailwindcss
+```
 
 ### Executing program
 
@@ -28,13 +32,14 @@ npm run build-css
 ## Help
 
 Any advise for common problems or issues or if you have any queries, please mail me;
-merhaba[add]muratkibarogullari[dot]com
+
+##### merhaba[add]muratkibarogullari[dot]com
 
 ## Author
 
-Murat Kibarogullari
+[Murat Kibarogullari](https://muratkibarogullari.com)
 
-Many thanks to [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) for his great effort for the tailwind css tutorila on youtube.
+* Many thanks to [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) for his great effort for the tailwind css tutorial on youtube.
 
 ## Version History
 
